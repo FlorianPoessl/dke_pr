@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/dke_metaservice" vcs="" />
-    <mapping directory="$PROJECT_DIR$/dke_webservice_rdfxml" vcs="" />
-    <mapping directory="$PROJECT_DIR$/dke_webservice_turtle" vcs="" />
+    <mapping directory="" vcs="Git" />
   </component>
 </project>

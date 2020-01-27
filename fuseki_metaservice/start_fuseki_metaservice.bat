@@ -1,1 +1,0 @@
-fuseki-server --port=3330
